@@ -8,13 +8,6 @@ This repository documents my ongoing exploration and learning journey in Python,
 
 My main objective is to gain practical experience with Python and Flask, developing a strong understanding of backend concepts and best practices.  This includes building RESTful APIs, working with databases, and deploying web applications.
 
-## Projects
-
-This repository contains various projects I've developed as part of my learning process:
-
-*   **Project 1: Task Management API**
-    *   A simple RESTful API for managing tasks, featuring functionalities such as adding, listing, updating, and deleting tasks.  This project focuses on API design and working with HTTP methods.
- 
 
 ## Technologies Used
 
