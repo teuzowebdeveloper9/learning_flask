@@ -14,9 +14,7 @@ This repository contains various projects I've developed as part of my learning 
 
 *   **Project 1: Task Management API**
     *   A simple RESTful API for managing tasks, featuring functionalities such as adding, listing, updating, and deleting tasks.  This project focuses on API design and working with HTTP methods.
-*   **Project 2: Basic Blog Web Application**
-    *   A basic web application with blog functionalities, including creating posts, commenting, and viewing posts.  This project explores web application structure and template rendering.
-*   **(Add more projects as you progress)**
+ 
 
 ## Technologies Used
 
